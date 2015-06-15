@@ -1,0 +1,33 @@
+{
+  "name": "ampersand-state-fluxible-mixin",
+  "version": "0.0.1",
+  "author": {
+    "name": "Michael Phan-Ba",
+    "email": "michael@mikepb.com"
+  },
+  "homepage": "http://github.com/mikepb/ampersand-state-fluxible-mixin",
+  "keywords": [
+    "amperesand",
+    "dehydrate",
+    "fluxible",
+    "mixin",
+    "model",
+    "rehydrate",
+    "state",
+    "store"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikepb/ampersand-state-fluxible-mixin.git"
+  },
+  "scripts": {
+    "test": "mocha --check-leaks"
+  },
+  "devDependencies": {
+    "ampersand-collection": "^1.4.5",
+    "ampersand-state": "^4.5.6",
+    "mocha": "^2.2.5"
+  }
+}
